@@ -1,0 +1,54 @@
+body {
+  background: url('https://snoiag.bn.files.1drv.com/y4pdNjmyWDXbIWkw6KuYcK7MK4-ykWPPr4H_YzXD-tD67Bgw0bMO7J836XHkksYd6a_1o1uFpXDQPkwaSkbc6hEUgYOQDanL_0TqCe3CpqZ4eoLuX7ZjbxfkSorzE8aeRMBWn-RbW01IA2jeWf5z21kJtMXULFLs06Jw26vfIhj9g1amNJU3unHDTp6_Gec2Hn-PREwBOkLbwIghc7lcRZcgbx4qfkZ-2vQyIitcbuyT5M/Red-mountains.jpg?psid=1') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1 {
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 400;
+  color: #FFF;
+}
+
+p {
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 100;
+  color: #FFF;
+  margin-bottom: 0;
+}
+
+label {
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 400;
+  color: #FFF;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.logo {
+  width: 10%;
+  margin-bottom: 10px;
+}
+
+#coming-soon-carousel {
+  height: 100vh;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 10% 15%;
+}
+
+.carousel-simple {
+  padding: 15%;
+}
+
+.btn {
+  margin-top: 10px;
+  width: 20%;
+}
